@@ -2,14 +2,17 @@
 import 'package:flutter/material.dart';
 
 class OrderCompleteScreen extends StatefulWidget {
+  final int id;
 
-  const OrderCompleteScreen({Key key}): super(key: key);
+  const OrderCompleteScreen({Key key, this.id}): super(key: key);
 
   @override
   State<StatefulWidget> createState() => _OrderCompleteScreenState();
 }
 
 class _OrderCompleteScreenState extends State<OrderCompleteScreen>{
+
+  String getCode() => widget.id.toString().padLeft(4,'0');
 
   @override
   Widget build(BuildContext context) {
@@ -29,7 +32,7 @@ class _OrderCompleteScreenState extends State<OrderCompleteScreen>{
                     style: Theme.of(context).primaryTextTheme.body1,
                               children: [
                               TextSpan(text: "Your order "),
-                              TextSpan(text: "P0001", style: Theme.of(context).primaryTextTheme.body2),
+                              TextSpan(text: "P${getCode()}", style: Theme.of(context).primaryTextTheme.body2),
                               TextSpan(text: " has been registrated"),
                             ]),
                 ),
