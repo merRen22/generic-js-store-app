@@ -5,7 +5,7 @@ Flutter project with UI for a generic store where you can search for products an
 ![alt text](https://raw.githubusercontent.com/merRen22/generic-js-store-app/master/showCase/1.jpg)
 ![alt text](https://raw.githubusercontent.com/merRen22/generic-js-store-app/master/showCase/2.jpg)
 ![alt text](https://raw.githubusercontent.com/merRen22/generic-js-store-app/master/showCase/3.jpg)
-![alt text](https://raw.githubusercontent.com/merRen22/generic-js-store-app/master/showCase/4.jpg)|
+![alt text](https://raw.githubusercontent.com/merRen22/generic-js-store-app/master/showCase/4.jpg)
 
 # Usage
 
