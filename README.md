@@ -8,4 +8,8 @@ Flutter project with UI for a generic store where you can search for products an
 
 The apk for this porject can be found in releases tab
 
+#BACKEND
 
+The app backend can be fount on this repository
+👇
+https://github.com/merRen22/generic-js-store-backend
