@@ -7,7 +7,7 @@ Flutter project with UI for a generic store where you can search for products an
 ![alt text](https://raw.githubusercontent.com/merRen22/generic-js-store-app/master/showCase/3.jpg)
 ![alt text](https://raw.githubusercontent.com/merRen22/generic-js-store-app/master/showCase/4.jpg)
 
-# Usage
+## Usage
 
 Products can be search via the search bar and added to the card. The list of avaible products can be seen below:
 
@@ -20,11 +20,11 @@ Products can be search via the search bar and added to the card. The list of ava
 | 5  | Galleta margarita  |
 | 6  | Gaseosa pepsi  |
 
-# Releases
+## Releases
 
 The apk for this porject can be found in releases tab
 
-# BACKEND
+## BACKEND
 
 The app backend can be fount on this repository
 👉
